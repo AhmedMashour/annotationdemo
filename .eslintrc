@@ -11,10 +11,7 @@
     "Annotations": false,
     "Tools": false
   },
-  "extends": [
-    "eslint:recommended",
-    "plugin:react/recommended"
-  ],
+  "extends": ["eslint:recommended", "plugin:react/recommended", "prettier"],
   "rules": {
     "quotes": [
       0,
